@@ -1,0 +1,10 @@
+# Copie este arquivo para local.properties e preencha os valores.
+# local.properties não é versionado (está no .gitignore).
+
+# Caminho do Android SDK — o Android Studio preenche automaticamente
+sdk.dir=
+
+# Client ID do OAuth App do GitHub.
+# Crie em: Settings > Developer settings > OAuth Apps > New OAuth App
+# Marque a opção "Enable Device Flow" na página do app.
+GITHUB_CLIENT_ID=
